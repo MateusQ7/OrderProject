@@ -4,7 +4,6 @@ import java.util.Date;
 import java.text.SimpleDateFormat;
 import java.util.Locale;
 import java.util.Scanner;
-
 import entities.Department;
 import entities.Worker;
 import entities.*;
